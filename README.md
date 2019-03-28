@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/ms12345/azure training/_apis/build/status/konfuzed.ContosoAir?branchName=master)](https://dev.azure.com/ms12345/azure training/_build/latest?definitionId=1&branchName=master)
 
 # Microsoft.Github CI Demo
 
